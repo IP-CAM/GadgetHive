@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost/GadgetHive/main/');
 define('DIR_APPLICATION', 'C:/xampp/htdocs/GadgetHive/main/admin/');
 define('DIR_SYSTEM', 'C:/xampp/htdocs/GadgetHive/main/system/');
 define('DIR_IMAGE', 'C:/xampp/htdocs/GadgetHive/main/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', DIR_SYSTEM . 'C:/xampp/storage/');
 define('DIR_CATALOG', 'C:/xampp/htdocs/GadgetHive/main/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
