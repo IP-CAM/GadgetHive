@@ -9,3 +9,5 @@ These are minimum requirements needed so that OpenCart can be installed and work
 2.  PHP (at least 5.3)
 3.  Curl enabled
 4.  Database (MySQLi suggested)
+
+## ChangeLog
